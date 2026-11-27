@@ -8,7 +8,7 @@ Arduino circuits I designed, programmed and simulated in **Tinkercad Circuits**.
 
 A 4-digit PIN lock with an alarm, built on an Arduino Uno.
 
-![PIN Vault Lock circuit](circuit.png)
+<img width="1491" height="706" alt="Screenshot 2026-11-27 150439" src="https://github.com/user-attachments/assets/afb076c1-3dda-48d9-b144-23d9cdcb98b6" />
 
 **▶ [Try the simulation on Tinkercad](https://www.tinkercad.com/things/dR4XnJqehzw-arduino-lcd-alarm-system)**
 
@@ -40,8 +40,8 @@ A 4-digit PIN lock with an alarm, built on an Arduino Uno.
 
 ### Screenshots
 <p align="center">
-  <img width="49%" alt="Wrong PIN: Pin Rejected, Try 1/3" src="pin-rejected.png" />
-  <img width="49%" alt="Correct PIN: Vault Open" src="vault-open.png" />
+  <img width="1486" height="707" alt="Screenshot 2026-11-27 150504" src="https://github.com/user-attachments/assets/7dcdf121-5617-4c8d-ae66-a2954d88a6eb" />
+<img width="1486" height="706" alt="Screenshot 2026-11-27 150521" src="https://github.com/user-attachments/assets/4ab0920d-b2a0-4b2e-8b90-6e57a0567207" />
 </p>
 
 📄 Code: [`pin_vault_lock.ino`](pin_vault_lock.ino)
