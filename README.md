@@ -50,4 +50,4 @@ A 4-digit PIN lock with an alarm, built on an Arduino Uno.
 
 ## 👤 Author
 **Ziad Elmeligy** · CS student at the German International University (GIU)
-[GitHub](https://github.com/XnD8R) · [LinkedIn](https://linkedin.com/in/Ziad-M-Elmeligy)
+[GitHub](https://github.com/ZiadElmeligy) · [LinkedIn](https://linkedin.com/in/Ziad-M-Elmeligy)
